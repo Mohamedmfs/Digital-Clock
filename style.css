@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(rgb(133, 192, 40), rgb(107, 1, 1));
+}
+
+#clock {
+  border: dotted, black, 1px;
+  border-radius: 50px;
+  color: black;
+  font-size: 100px;
+  padding: 20px;
+  font-weight: bold;
+}
